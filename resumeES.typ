@@ -112,6 +112,8 @@
   - *Skills: AWS, PHP, JavaScript, HTML, SQL*
 ]
 
+#pagebreak()
+
 #resume-entry(
   title: "Técnico de operaciones y analista",
   location: "Zerain",
@@ -123,8 +125,6 @@
   - Redacción de informes técnicos y comerciales.
   - *Skills: SQL, Access, Office*
 ]
-
-#pagebreak()
 
 #resume-entry(
   title: "Cofundador de Scitodate",
