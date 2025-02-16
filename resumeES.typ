@@ -168,6 +168,5 @@
 = Eventos Relevantes
 
 #resume-item[
-  - Participación en el SWERC (_South Western European Regional Contest_) de 2014, 2015 y 2017
-  - Participación en la _Global Game Jam_ de 2015.
+  - Participación en el SWERC (_South Western European Regional Contest_) de 2014, 2015 y 2017.
 ]

@@ -169,5 +169,4 @@
 
 #resume-item[
   - Participation at the SWERC (_South Western European Regional Contest_) in 2014, 2015, and 2017.
-  - Participation at the _Global Game Jam_ in 2015.
 ]
