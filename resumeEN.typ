@@ -58,7 +58,8 @@
 #resume-item[
   - Designed and developed technology solutions for data governance and data analysis in financial environments.
   - Migrated ETLs to a PySpark environment, involving the design of processes combining multiple tables, data analysis, manipulation, and providing solutions.
-  - *Skills: Pyspark, Python, SQL, HDFS, Hive, Bash scripting, Cloudera*
+  - Migrated ETLs from a hive native environment into Azure Databricks, interacting with several automation tools and hands on work with Databricks' tools.
+  - *Skills: Pyspark, Python, SQL, Databricks, Azure, HDFS, Hive, Bash, Cloudera*
 ]
 
 #resume-entry(
